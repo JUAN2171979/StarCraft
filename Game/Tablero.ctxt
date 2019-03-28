@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tablero\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=c\ m
+comment1.target=Tablero(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ Dibuja()
+comment3.params=
+comment3.target=void\ Incrementar()
+comment4.params=
+comment4.target=void\ Decrementar()
+comment5.params=
+comment5.target=int\ getValor()
+numComments=6
