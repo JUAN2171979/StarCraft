@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Protoss
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Protoss\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e
+comment1.target=void\ setEnergia(int)
+comment10.params=
+comment10.target=void\ curarCM()
+comment2.params=
+comment2.target=int\ getEnergia()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=
+comment5.target=void\ ChBarrera()
+comment6.params=
+comment6.target=void\ ChCentroComando()
+comment7.params=
+comment7.target=void\ ChCentroCuracion()
+comment8.params=
+comment8.target=void\ ChMinaCristales()
+comment9.params=
+comment9.target=void\ atacar()
+numComments=11
